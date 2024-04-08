@@ -42,11 +42,11 @@
 ## GitHub Stats
 
 <div style="display: flex; justify-content: space-between;">
-  <div style="flex-basis: 48%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+  <div style="width: 48%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=mr-revoo&show_icons=true&theme=radical" alt="Your GitHub Stats" />
   </div>
-  <div style="flex-basis: 48%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact" alt="Your Most Used Languages" />
+  <div style="width: 48%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-revoo&layout=compact" alt="Your Most Used Languages" />
   </div>
 </div>
 
