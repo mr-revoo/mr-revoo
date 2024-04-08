@@ -1,57 +1,77 @@
-# Hi there 👋
----
-## My Name is Refaat Mohamed (aka Revoo)
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-[![GitHub followers](https://img.shields.io/github/followers/mr-revoo?style=social)](https://github.com/mr-revoo)
-[![Twitter Follow](https://img.shields.io/twitter/follow/RefaatEmam?style=social)](https://twitter.com/RefaatEmam)
+###
 
-## About Me
-
-🏫 I'm a passionate developer And Computer Science Student in Helwan University
-
-- 👨‍💻 I’m currently learning [Backend Software Enigneering & Data Engineering].
-- 
-- 🎮 Pro Evolution Soccer (PES) & FIFA Player  
-- 
-- 😄 Pronouns: [He/Him].
-- ⚡ Fun fact: [share a fun fact about yourself].
-
-## Technologies & Languages
-
-![C](https://img.shields.io/badge/-C-green?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-purple?style=for-the-badge&logo=php&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-orange?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-lightgrey?style=for-the-badge&logo=express&logoColor=white)
-![jQuery](https://img.shields.io/badge/-jQuery-blue?style=for-the-badge&logo=jquery&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-red?style=for-the-badge&logo=redis&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-blue?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-lightgrey?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux&logoColor=white)
-![Shell Scripting](https://img.shields.io/badge/-Shell%20Scripting-yellowgreen?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-blueviolet?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Neovim](https://img.shields.io/badge/-Neovim-green?style=for-the-badge&logo=neovim&logoColor=white)
-
-## GitHub Stats
-
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 48%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=mr-revoo&show_icons=true&theme=radical" alt="Your GitHub Stats" />
-  </div>
-  <div style="width: 48%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-revoo&layout=compact" alt="Your Most Used Languages" />
-  </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-revoo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-revoo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-## 📫 Connect with Me
+###
 
-- [LinkedIn](https://www.linkedin.com/in/mr-revoo/)
-- [twitter](https://www.x.com/RefaatEmam)
-- [Gmail](refaatmohamed61@gmail.com)
+<img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2dpa2s5cnJ2YWY4bzYwenJrdmw2cWhzZXM5cnE2bzN6OTBkZ2JwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z8GGCL9SutLtZPWRSk/giphy-downsized-large.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="30" alt="fedora logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/revo0oo_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+  </a>
+  <a href="_mrrevoo" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
+  </a>
+  <a href="refaatmohamed61@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/mr-revoo/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/mr-revoo/mr-revoo/output/snake.svg" alt="Snake animation" />
+
+###
