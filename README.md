@@ -2,8 +2,8 @@
 
 # My Name is Refaat Mohamed (aka Revoo)
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/mr-revoo)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)](https://twitter.com/RefaatEmam)
+[![GitHub followers](https://img.shields.io/github/followers/mr-revoo?style=social)](https://github.com/mr-revoo)
+[![Twitter Follow](https://img.shields.io/twitter/follow/RefaatEmam?style=social)](https://twitter.com/RefaatEmam)
 
 ## About Me
 
