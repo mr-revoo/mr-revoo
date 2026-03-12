@@ -1,18 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=400&size=24&pause=1000&color=1a1a1a&center=true&vCenter=true&width=650&lines=Refaat+M.+Ismail;Data+and+AI+Engineer;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=400&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Refaat+M.+Ismail;Data+and+AI+Engineer;" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/mr-revoo/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-</a>
+<a href="https://www.linkedin.com/in/mr-revoo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 &nbsp;
 <a href="mailto:refaatmohamed61@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 &nbsp;
 <a href="https://discord.com/users/_mrrevoo"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=mr-revoo&style=flat-square&color=0078d4&label=views" alt="User Views" />
+<img src="https://komarev.com/ghpvc/?username=mr-revoo&style=flat-square&color=58a6ff&label=views" />
 
 </div>
 
@@ -24,7 +22,7 @@
 
 Data Engineer and AI Engineer from Egypt. I design end-to-end data systems — from ingestion pipelines and warehouse architectures to production LLM applications.
 
-Currently focused on building **large language models**, **RAG pipelines**, and applying data engineering to **football analytics**.
+Currently focused on **large language models**, **RAG pipelines**, and applying data engineering to **football analytics**.
 
 <br clear="right"/>
 
@@ -58,24 +56,56 @@ Currently focused on building **large language models**, **RAG pipelines**, and 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 ---
 
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-revoo&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&title_color=1a1a1a&icon_color=555555&text_color=1a1a1a&bg_color=ffffff" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-revoo&layout=compact&theme=default&hide_border=true&langs_count=6&title_color=1a1a1a&text_color=1a1a1a&bg_color=ffffff" height="155" />
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=mr-revoo&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api?username=mr-revoo&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=1a1a1a" />
+    <img height="155" src="https://github-readme-stats.vercel.app/api?username=mr-revoo&show_icons=true&hide_border=true" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mr-revoo&layout=compact&hide_border=true&langs_count=6&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mr-revoo&layout=compact&hide_border=true&langs_count=6&theme=default&bg_color=ffffff&title_color=0969da&text_color=1a1a1a" />
+    <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-revoo&layout=compact&hide_border=true" />
+  </picture>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mr-revoo&theme=default&hide_border=true&ring=1a1a1a&fire=1a1a1a&currStreakLabel=1a1a1a" height="155" />
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=mr-revoo&hide_border=true&theme=github-dark-blue&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&background=0d1117&stroke=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=mr-revoo&hide_border=true&theme=default&ring=0969da&fire=0969da&currStreakLabel=0969da" />
+    <img height="155" src="https://github-readme-streak-stats.herokuapp.com?user=mr-revoo&hide_border=true" />
+  </picture>
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-revoo&theme=minimal&hide_border=true&color=555555&line=1a1a1a&point=1a1a1a" />
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=mr-revoo&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=mr-revoo&theme=minimal&hide_border=true&color=0969da&line=0969da&point=0969da" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-revoo&theme=minimal&hide_border=true" />
+  </picture>
+
 </div>
 
 ---
