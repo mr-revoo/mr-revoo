@@ -57,10 +57,3 @@ Currently focused on **large language models**, **RAG pipelines**, and applying 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mr-revoo/mr-revoo/output/snake.svg" alt="contribution snake" />
-</div>
