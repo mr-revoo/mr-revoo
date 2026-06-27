@@ -58,55 +58,6 @@ Currently focused on **large language models**, **RAG pipelines**, and applying 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
----
-
-### GitHub Stats
-
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=mr-revoo&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api?username=mr-revoo&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=1a1a1a" />
-    <img height="155" src="https://github-readme-stats.vercel.app/api?username=mr-revoo&show_icons=true&hide_border=true" />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mr-revoo&layout=compact&hide_border=true&langs_count=6&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mr-revoo&layout=compact&hide_border=true&langs_count=6&theme=default&bg_color=ffffff&title_color=0969da&text_color=1a1a1a" />
-    <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-revoo&layout=compact&hide_border=true" />
-  </picture>
-
-</div>
-
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=mr-revoo&hide_border=true&theme=github-dark-blue&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&background=0d1117&stroke=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=mr-revoo&hide_border=true&theme=default&ring=0969da&fire=0969da&currStreakLabel=0969da" />
-    <img height="155" src="https://github-readme-streak-stats.herokuapp.com?user=mr-revoo&hide_border=true" />
-  </picture>
-
-</div>
-
----
-
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=mr-revoo&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=mr-revoo&theme=minimal&hide_border=true&color=0969da&line=0969da&point=0969da" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-revoo&theme=minimal&hide_border=true" />
-  </picture>
-
-</div>
 
 ---
 
